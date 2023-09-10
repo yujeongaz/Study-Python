@@ -26,5 +26,5 @@ print("naver", "kakao", "sk", "samsung", sep="/")
 # 9 ✅
 print("first", end=""); print("second")
 
-# 10
+# 10 ✅
 print(5/3)
