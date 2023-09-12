@@ -115,6 +115,6 @@ print(ticker.split("_"))
 date = "2020-05-01"
 print(date.split("-"))
 
-# 50
+# 50 ✅
 data = "039490     "
 print(data.rstrip())
